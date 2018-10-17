@@ -7,9 +7,9 @@ from Codes import AlertTime
 from Codes import Web
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
-# TOKEN - 657765822:AAEy6-fxePH-uiPFkcMQGwCNEpfYwfKzmzk
+# TOKEN - #
 
-TOKEN = "657765822:AAEy6-fxePH-uiPFkcMQGwCNEpfYwfKzmzk"
+TOKEN = "Your Token"
 
 vaqt = Model.Vaqt()
 
